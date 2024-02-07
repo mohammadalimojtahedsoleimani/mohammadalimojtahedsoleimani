@@ -19,7 +19,7 @@ Here are some noteworthy projects I have worked on:
 - ### [**Hive**](https://github.com/mohammadalimojtahedsoleimani/Hive-Project):
     Hive is a web application that allows users to create and support fundraising campaigns for various causes.
 It is inspired by GoFundMe, a community-powered fundraising platform.
-Hive is developed with React, a JavaScript library for building user interfaces2.
+Hive is developed with React, a JavaScript library for Front-end development.
 It uses API, React context, and React hooks to manage data and state across components.
 It also uses Sass, a CSS extension language, to style the user interface.
 Hive is a project by Mohammad Ali Mojtahed Soleimani, a student at the Kharazmi university.
